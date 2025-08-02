@@ -18,9 +18,12 @@ Aspiring **Machine Learning Engineer** and **Data Scientist** looking for hands-
 **Other**: Jupyter Notebook, Object-Oriented Programming
 
 
-## 🚧 Featured Projects : Airbnb Instant booking predictor
+## 🚧 Featured Projects 
 
-## Projects Overview
+
+## Airbnb Instant booking predictor 
+
+Projects Overview
 This project builds a Machine Learning classification model to predict whether an Airbnb listing is “Instant Bookable” based on host activity, guest reviews, and listing characteristics. The goal is to help improve booking efficiency and user experience by identifying key factors that influence instant booking availability.
 
 ⸻
@@ -48,15 +51,20 @@ To explore the full code, analysis, and results, please visit the project reposi
 ((https://github.com/SAMGETUB/My-eCornell-Portfolio/blob/main/DefineAndSolveMLProblem.ipynb))
 
 
-## Other projecrs: Mancala C++ game
+## Other projecrs: 
 
-## Projects Overview
+## Mancala C++ game
+
+Projects Overview
 This project is a fully interactive, two-player console-based implementation of the classic board game Mancala, developed in C++ using object-oriented programming principles. The gameplay logic, state management, and win conditions are encapsulated within dedicated classes, providing a clean, modular structure for scalability and maintainability. The game simulates real Mancala rules, allowing two players to take alternating turns, redistribute stones, skip opponent stores, and determine a winner based on final scores. The system ensures robust input validation and continuously displays the current game state after each move.
 
 🛠 Technologies Used
-	•	Language: C++
-	•	Concepts: Object-Oriented Programming (OOP), Classes, Encapsulation, Vectors, Conditional Logic
-	To explore the full code, analysis, and results, please visit the project repository:
+	•Language: C++
+	•Concepts: Object-Oriented Programming (OOP), Classes, Encapsulation, Vectors, Conditional Logic
+	
+ 
+ 
+ To explore the full code, analysis, and results, please visit the project repository:
 
 [Link To full project repository]
 
@@ -68,5 +76,5 @@ This project is a fully interactive, two-player console-based implementation of 
 - 📬 Email: coq.erwin.samuel@gmail.com  
 - 🗂 Portfolio (website coming soon)
 
-##Key Features & Results
+
 
