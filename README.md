@@ -28,7 +28,7 @@ This project builds a Machine Learning classification model to predict whether a
 
 ⸻
 
-### Key Features & Results
+**Key Features & Results**  
 
 - **Binary Classification**: Developed Logistic Regression and Decision Tree models to classify Airbnb listings as instant bookable or not using structured listing data  
 - **Feature Engineering**: Handled missing values through median imputation, removed low-variance features, and applied one-hot encoding to categorical variables  
