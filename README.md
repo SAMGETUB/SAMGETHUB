@@ -61,9 +61,12 @@ This project is a fully interactive, two-player console-based implementation of 
 
 ⸻
 
- 🛠️ Technologies Used  
-**Language:** C++  
-**Concepts:** Object-Oriented Programming (OOP), Classes, Encapsulation, Vectors, Conditional Logic
+ 
+🛠️ Technologies Used
+
+Language: C++
+
+Concepts: Object-Oriented Programming (OOP), Classes, Encapsulation, Vectors, Conditional Logic
 	
  
  ⸻
