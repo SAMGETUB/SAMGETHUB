@@ -14,8 +14,8 @@ Aspiring **Machine Learning Engineer** and **Data Scientist** looking for hands-
 ## 🛠 Technical Skills
 
 **Languages**: Python, C++, C
-## Frameworks & Tools: Scikit-learn, Pandas, Numpy, 
-## Other: Jupyter Notebook, Object-Oriented Programming
+***Frameworks & Tools**: Scikit-learn, Pandas, Numpy, 
+**Other**: Jupyter Notebook, Object-Oriented Programming
 
 
 ## 🚧 Featured Projects 
