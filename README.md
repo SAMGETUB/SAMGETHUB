@@ -73,7 +73,7 @@ Concepts: Object-Oriented Programming (OOP), Classes, Encapsulation, Vectors, Co
  
  🚀 Getting Started
 
-To explore the full code, analysis, and results, please visit the project repository:
+To explore the full code, please visit the project repository:
 [Link To full project repository]
 
 
