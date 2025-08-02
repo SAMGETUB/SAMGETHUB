@@ -53,7 +53,7 @@ To explore the full code, analysis, and results, please visit the project reposi
 ((https://github.com/SAMGETUB/My-eCornell-Portfolio/blob/main/DefineAndSolveMLProblem.ipynb))
 
 
-## Other projecrs: 
+## Other projecrs
 
  **Mancala C++ game**  
 
