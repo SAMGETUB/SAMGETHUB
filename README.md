@@ -22,7 +22,7 @@ Aspiring **Machine Learning Engineer** and **Data Scientist** looking for hands-
 
 **Airbnb Instant booking predictor** 
 
-Projects Overview
+**Projects Overview** 
 This project builds a Machine Learning classification model to predict whether an Airbnb listing is “Instant Bookable” based on host activity, guest reviews, and listing characteristics. The goal is to help improve booking efficiency and user experience by identifying key factors that influence instant booking availability.
 
 ⸻
