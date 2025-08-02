@@ -28,12 +28,13 @@ This project builds a Machine Learning classification model to predict whether a
 
 ⸻
 
-Key Features & Results
-	•	Binary Classification: Developed Logistic Regression and Decision Tree models to classify listings as instant bookable or not using structured listing data
-	•	Feature Engineering: Handled missing data through median imputation, removed low-variance features, and applied one-hot encoding to categorical variables
-	•	Model Tuning & Selection: Used GridSearchCV and SelectKBest to optimize hyperparameters and identify top features; achieved a peak test accuracy of 75.4%
-	•	Model Evaluation: Compared models using AUC, accuracy, and log loss metrics; visualized results using ROC curves for performance clarity
-	•	Practical Insights: Found guest review metrics and host response behavior to be strong predictors of instant bookability
+### Key Features & Results
+
+- **Binary Classification**: Developed Logistic Regression and Decision Tree models to classify Airbnb listings as instant bookable or not using structured listing data  
+- **Feature Engineering**: Handled missing values through median imputation, removed low-variance features, and applied one-hot encoding to categorical variables  
+- **Model Tuning & Selection**: Used GridSearchCV and SelectKBest to optimize hyperparameters and identify top predictive features, achieving a test accuracy of 75.4%  
+- **Model Evaluation**: Compared models using AUC, accuracy, and log loss metrics; visualized performance using ROC curves  
+- **Key Insights**: Found guest review metrics and host response behavior to be strong predictors of instant bookabilityy
 
 
 ⸻
