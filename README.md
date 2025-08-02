@@ -4,7 +4,7 @@ SAMGETHUB/README.nd
 
 Aspiring **Machine Learning Engineer** and **Data Scientist** looking for hands-on experience in Python, C++, and data-driven projects. I’m passionate about solving real-world problems and continuously improving my technical and analytical skills.
 
-- 🎓 B.S. in Computer Science, Data Science Concentration, minor in management inforrmation @ UMass Lowell (Sophomore)
+- 🎓 B.S. in Computer Science, Data Science Concentration, minor in management inforrmation system @ UMass Lowell (Sophomore)
 - 🔬 Interests: Machine Learning, Software Engineering, Data Analytics, AI in Society
 - 🚀 Currently learning: ptyhon, Scikit-learn, Pandas, TensorFlow, SQL
 - 📫 Reach me at: http://linkedin.com/in/erwin-coq-aaba722ba | coq.erwin.samuel@gmail.com
