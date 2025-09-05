@@ -75,6 +75,7 @@ Concepts: Object-Oriented Programming (OOP), Classes, Encapsulation, Vectors, Co
 
 To explore the full code, please visit the project repository:
 [Link To full project repository]
+((https://github.com/SAMGETUB/Mancala-C-game))
 
 
 
